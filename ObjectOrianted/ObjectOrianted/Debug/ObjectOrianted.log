@@ -1,0 +1,7 @@
+﻿  ObjectOrianted.cpp
+C:\Users\User\OneDrive\Desktop\ObjectOrianted\ObjectOrianted\ObjectOrianted.cpp(54,44): error C3861: 'CountMoviesByGenre': identifier not found
+C:\Users\User\OneDrive\Desktop\ObjectOrianted\ObjectOrianted\ObjectOrianted.cpp(56,23): error C3861: 'FindBestGenreMovie': identifier not found
+C:\Users\User\OneDrive\Desktop\ObjectOrianted\ObjectOrianted\ObjectOrianted.cpp(119,32): error C2086: 'int count': redefinition
+C:\Users\User\OneDrive\Desktop\ObjectOrianted\ObjectOrianted\ObjectOrianted.cpp(114): message : see declaration of 'count'
+C:\Users\User\OneDrive\Desktop\ObjectOrianted\ObjectOrianted\ObjectOrianted.cpp(119,45): error C2086: 'Genre findGenre': redefinition
+C:\Users\User\OneDrive\Desktop\ObjectOrianted\ObjectOrianted\ObjectOrianted.cpp(114): message : see declaration of 'findGenre'
